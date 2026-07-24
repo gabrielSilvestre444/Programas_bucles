@@ -8,4 +8,4 @@ else:
     while num > 0:
         num //= 10
         digitos += 1
-print("El número tiene", digitos, "dígitos")        
+print("El número tiene", digitos, "dígitos")
