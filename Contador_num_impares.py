@@ -6,4 +6,4 @@ while True:
     i += 1
     if i > N:
         break
-print("\nFin. Se mostraron los impares hasta", N)
+print("\nFin. Se mostraron los impares hasta", N) 
