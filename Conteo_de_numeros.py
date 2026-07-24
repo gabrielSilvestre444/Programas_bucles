@@ -13,4 +13,3 @@ for i in range(n):
 print("Mayores a 0:", mayores)
 print("Menores a 0:", menores)
 print("Iguales a 0:", iguales)
-print
