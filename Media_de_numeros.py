@@ -12,5 +12,3 @@ if contador > 0:
     print("Media:", media)
 else:
     print("No se ingresaron positivos")
-    
-print("holaa")
