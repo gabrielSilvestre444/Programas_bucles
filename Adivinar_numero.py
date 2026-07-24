@@ -9,4 +9,4 @@ while True:
     else:
         print("¡Correcto! Era", secreto)
         break
-print("Juego terminado. El número era", secreto)
+print("Juego terminado. El número era", secreto) 
